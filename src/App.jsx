@@ -10,6 +10,7 @@ function App() {
     <>
     <div> This is from main branch</div>
     <div>this is second commmit from main branch</div>
+    <div>this is 3rd commmit from main branch</div>
     </>
   )
 }
