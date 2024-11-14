@@ -12,7 +12,7 @@ function App() {
     <div>this is second commmit from main branch</div>
     <div>this is 3rd commmit from main branch</div>
       <h1>
-        This is from new-branch of git
+        This is from mansavi branch of git
       </h1>
 
     </>
